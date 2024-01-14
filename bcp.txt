@@ -1,0 +1,1 @@
+bcp zad10.dbo.CUSTOMERS_304194_BCP in "C:\Users\minec\OneDrive\Pulpit\Exported_Customers.csv" -T -f  "C:\Users\minec\OneDrive\Pulpit\format.fmt"
